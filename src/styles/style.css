@@ -7,3 +7,9 @@
 @import "layout/header.css";
 @import "layout/newsletter.css";
 @import "layout/footer.css";
+
+/* Pages */
+/* Home */
+@import "pages/home/introducao.css";
+@import "pages/home/sobre.css";
+@import "pages/home/produtos.css";
