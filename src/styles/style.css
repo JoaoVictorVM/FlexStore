@@ -1,3 +1,9 @@
 /* Global */
 @import "global/normalize.css";
 @import "global/fonts.css";
+
+/* Layout */
+@import "layout/superinfo.css";
+@import "layout/header.css";
+@import "layout/newsletter.css";
+@import "layout/footer.css";
